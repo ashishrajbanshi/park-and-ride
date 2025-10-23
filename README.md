@@ -228,14 +228,6 @@ The project leverages artificial intelligence and machine learning to optimize:
 - Phased technology rollout
 - Service level agreements with operators
 
-## 🔄 Governance Structure
-
-### Steering Committee
-- Representatives from Volkswagen, CARTA, and CPA
-- Rural county transportation officials
-- Community stakeholder representatives
-- Technical advisory panel
-
 ### Working Groups
 - Infrastructure Development Team
 - Technology Implementation Team
@@ -244,9 +236,8 @@ The project leverages artificial intelligence and machine learning to optimize:
 
 ## 📞 Contact Information
 
-**Project Lead**: Chattanooga Area Regional Transit Authority (CARTA)  
-**Partner Organization**: Volkswagen Chattanooga Assembly Plant  
-**Supporting Agency**: Chattanooga Parking Authority (CPA)
+**Project Lead**: 
+
 
 ---
 
