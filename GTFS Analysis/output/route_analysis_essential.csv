@@ -1,0 +1,17 @@
+route_id,route_short_name,route_long_name,avg_travel_time_min,avg_trips_per_day,route_length_miles,service_pattern,Morning Peak_avg_min,Evening Peak_avg_min
+1,1,Alton Park,32.6,21.4,10.91,Daily,31.5,31.9
+10A,10A,Avondale,33.3,11.1,9.54,Daily,31.1,34.2
+10C,10C,Campbell Street/Highway 58,51.7,3.8,14.41,Weekday,50.7,50.6
+10G,10G,Glenwood,34.1,11.0,12.22,Daily,31.9,36.6
+13,13,Rossville,32.0,7.2,10.31,Weekday,31.6,32.0
+15,15,St. Elmo/Incline,27.0,19.1,9.4,Daily,31.1,25.9
+16,16,Northgate Mall,40.9,16.9,15.05,Daily,41.2,39.2
+2,2,North Shore,15.8,10.9,4.56,Daily,16.5,16.2
+21,21,Golden Gateway,22.4,18.0,5.91,Daily,22.1,22.3
+28,28,Amnicola,26.1,6.0,10.28,Weekday,25.0,28.3
+3,3,Enterprise South,47.7,4.9,19.39,Daily,47.7,48.3
+33,33,Downtown Shuttle,16.0,85.7,1.77,Daily,15.9,16.0
+34,34,North Shore Shuttle,9.4,54.0,2.61,Weekend,0.0,9.5
+35,35,North Brainerd Shuttle,31.9,3.2,11.95,Weekday,45.0,33.8
+4,4,Eastgate/Hamilton Pl,65.2,29.0,30.08,Daily,63.6,64.9
+9,9,East Lake,38.8,16.7,10.86,Daily,39.3,39.1
