@@ -1,0 +1,21 @@
+rank,name,composite_score,estimated_demand,capacity,transit_stops_nearby,supply_demand_status
+1,"Location (35.0107, -85.1644)",,3215,191.0,,High Demand - Undersupplied
+2,"Location (35.0448, -85.3341)",,2673,199.0,,High Demand - Undersupplied
+3,"Location (35.1240, -85.3062)",,3067,189.0,,High Demand - Undersupplied
+4,"Location (35.1035, -85.3245)",,2614,288.0,,High Demand - Undersupplied
+5,"Location (35.0114, -85.1634)",,3215,169.0,,High Demand - Undersupplied
+6,"Location (35.1243, -85.3020)",,2911,70.0,,High Demand - Undersupplied
+7,"Location (35.0501, -85.1270)",,2560,466.0,,High Demand - Undersupplied
+8,"Location (35.1089, -85.2135)",,2487,259.0,,High Demand - Undersupplied
+9,"Location (35.1201, -85.3055)",,3157,134.0,,High Demand - Undersupplied
+10,"Location (35.1420, -85.2350)",,2403,225.0,,High Demand - Undersupplied
+11,"Location (35.0820, -85.0842)",,2109,88.0,,High Demand - Undersupplied
+12,"Location (35.1593, -85.1957)",,1911,263.0,,High Demand - Undersupplied
+13,"Location (35.1466, -85.2510)",,2741,1085.0,,High Demand - Undersupplied
+14,"Location (35.0053, -85.3929)",,720,2747.0,,Low Demand - Oversupplied
+15,"Location (35.0740, -85.1042)",,2215,548.0,,High Demand - Undersupplied
+16,"Location (35.1105, -85.3209)",,2660,293.0,,High Demand - Undersupplied
+17,"Location (35.0069, -85.3905)",,746,327.0,,High Demand - Undersupplied
+18,"Location (35.1305, -85.2177)",,2274,216.0,,High Demand - Undersupplied
+19,"Location (35.0924, -85.3103)",,2878,540.0,,High Demand - Undersupplied
+20,"Location (35.1561, -85.1967)",,1848,99.0,,High Demand - Undersupplied

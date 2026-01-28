@@ -1,0 +1,7 @@
+Install python3 and its package pip.
+Create virtual env
+install pandas, geopandas, geoalchemy2, psycopg2-binary, psycopg2, sqlalchemy, seaborn, matplotlib
+
+python3 scripts/01_setup_database.py
+python3 scripts/02_spatial_analysis.py
+python3 scripts/03_accessibility_scoring.py

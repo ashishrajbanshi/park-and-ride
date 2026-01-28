@@ -1,0 +1,1505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1836046454094,
+                    35.060120115409035
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0601, -85.1836)",
+                "Capacity": 3246.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24713146136098,
+                    35.11319524173957
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1132, -85.2471)",
+                "Capacity": 3190.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.39287902975674,
+                    35.0052767064176
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0053, -85.3929)",
+                "Capacity": 2747.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.29994129671037,
+                    35.01682092051467
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0168, -85.2999)",
+                "Capacity": 2101.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.31128568242079,
+                    34.99515249275171
+                ]
+            },
+            "properties": {
+                "Name": "Location (34.9952, -85.3113)",
+                "Capacity": 2097.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24698933778049,
+                    35.15419078446651
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1542, -85.2470)",
+                "Capacity": 2043.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.20566983593521,
+                    35.009799152886735
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0098, -85.2057)",
+                "Capacity": 1457.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.20699386186578,
+                    35.148103204587265
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1481, -85.2070)",
+                "Capacity": 1268.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.13449605350407,
+                    35.072230401416164
+                ]
+            },
+            "properties": {
+                "Name": "VWGoA",
+                "Capacity": 1264.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1568262048154,
+                    35.0348430019882
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0348, -85.1568)",
+                "Capacity": 1257.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.13146269874446,
+                    35.075345270609965
+                ]
+            },
+            "properties": {
+                "Name": "VWGoA",
+                "Capacity": 1192.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.19414591923429,
+                    35.0266450795846
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0266, -85.1941)",
+                "Capacity": 1185.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24569673155412,
+                    35.13967979911715
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1397, -85.2457)",
+                "Capacity": 1164.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.25096469412644,
+                    35.14662956838624
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1466, -85.2510)",
+                "Capacity": 1085.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24429688636782,
+                    35.13434455270474
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1343, -85.2443)",
+                "Capacity": 999.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24244777828456,
+                    35.13714033796049
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1371, -85.2424)",
+                "Capacity": 985.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.15775019407695,
+                    35.03207618250096
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0321, -85.1578)",
+                "Capacity": 913.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.31481227338125,
+                    35.03793381078941
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0379, -85.3148)",
+                "Capacity": 881.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.19674432279704,
+                    35.03934186922786
+                ]
+            },
+            "properties": {
+                "Name": "Long Term Lot 2",
+                "Capacity": 874.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2621403931939,
+                    35.114302746112216
+                ]
+            },
+            "properties": {
+                "Name": "Hixson Plaza",
+                "Capacity": 855.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.30689083332157,
+                    35.02945200860728
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0295, -85.3069)",
+                "Capacity": 853.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.18994128273707,
+                    35.05646961613341
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0565, -85.1899)",
+                "Capacity": 852.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.31501522301843,
+                    35.11819576734028
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1182, -85.3150)",
+                "Capacity": 847.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.15490612975758,
+                    35.03948355653957
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0395, -85.1549)",
+                "Capacity": 809.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.31630800719167,
+                    35.04860788929704
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0486, -85.3163)",
+                "Capacity": 794.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2771880165621,
+                    35.116046549868955
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1160, -85.2772)",
+                "Capacity": 786.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1318087728323,
+                    35.083147903644665
+                ]
+            },
+            "properties": {
+                "Name": "Trailer Yard",
+                "Capacity": 769.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.321258873502,
+                    35.04044189504148
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0404, -85.3213)",
+                "Capacity": 752.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.15516875766018,
+                    35.03654980214031
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0365, -85.1552)",
+                "Capacity": 664.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.13747625180558,
+                    35.07137818365904
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0714, -85.1375)",
+                "Capacity": 657.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.32274925411761,
+                    35.04620317067831
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0462, -85.3227)",
+                "Capacity": 645.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.19126630728287,
+                    35.05893709378616
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0589, -85.1913)",
+                "Capacity": 617.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23508416267263,
+                    35.131905746569025
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1319, -85.2351)",
+                "Capacity": 617.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2414882245618,
+                    35.12961496104922
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1296, -85.2415)",
+                "Capacity": 605.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24137288051871,
+                    35.13139592906795
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1314, -85.2414)",
+                "Capacity": 602.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.21209875654519,
+                    35.01418346032025
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0142, -85.2121)",
+                "Capacity": 587.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23435452124394,
+                    35.100841760155866
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1008, -85.2344)",
+                "Capacity": 577.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.21633805028686,
+                    35.008411879387964
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0084, -85.2163)",
+                "Capacity": 564.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24300456915017,
+                    35.18295931659633
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1830, -85.2430)",
+                "Capacity": 563.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.18597729950287,
+                    35.019002508989445
+                ]
+            },
+            "properties": {
+                "Name": "Brainerd Hills Baptist Church",
+                "Capacity": 550.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2118326042052,
+                    35.01188079539272
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0119, -85.2118)",
+                "Capacity": 549.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.16058517166555,
+                    35.03382534138487
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0338, -85.1606)",
+                "Capacity": 549.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.10418341429849,
+                    35.07402760578236
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0740, -85.1042)",
+                "Capacity": 548.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.05946607381921,
+                    35.09556651265185
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0956, -85.0595)",
+                "Capacity": 542.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.310317977814,
+                    35.092448713271054
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0924, -85.3103)",
+                "Capacity": 540.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2384686032936,
+                    35.10148800162054
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1015, -85.2385)",
+                "Capacity": 534.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23785055932902,
+                    35.13038985365189
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1304, -85.2379)",
+                "Capacity": 534.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.28033866520914,
+                    35.05737840983384
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0574, -85.2803)",
+                "Capacity": 531.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23820544554705,
+                    35.13232165113325
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1323, -85.2382)",
+                "Capacity": 516.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.38779924020007,
+                    35.009369561888214
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0094, -85.3878)",
+                "Capacity": 515.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.06481290779273,
+                    35.0897466264246
+                ]
+            },
+            "properties": {
+                "Name": "Publix Parking Lot",
+                "Capacity": 502.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.31484925447826,
+                    35.0553776026438
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0554, -85.3148)",
+                "Capacity": 500.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2374742422167,
+                    35.09851750464435
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0985, -85.2375)",
+                "Capacity": 497.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.21361636866793,
+                    35.009257326929195
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0093, -85.2136)",
+                "Capacity": 496.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.12857362403021,
+                    35.05672164127609
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0567, -85.1286)",
+                "Capacity": 494.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.14928711220263,
+                    35.00527638841926
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0053, -85.1493)",
+                "Capacity": 494.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24544501488374,
+                    35.135481632207714
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1355, -85.2454)",
+                "Capacity": 487.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.16085040814873,
+                    35.035286831593424
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0353, -85.1609)",
+                "Capacity": 482.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24517328204072,
+                    35.02433660889391
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0243, -85.2452)",
+                "Capacity": 476.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.26628433594517,
+                    35.034593734966535
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0346, -85.2663)",
+                "Capacity": 475.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.30727089277967,
+                    35.0416857048395
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0417, -85.3073)",
+                "Capacity": 470.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.27971032334986,
+                    35.13832981837285
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1383, -85.2797)",
+                "Capacity": 469.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.12701820977914,
+                    35.05007756916535
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0501, -85.1270)",
+                "Capacity": 466.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.21707060361618,
+                    35.030150002940104
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0302, -85.2171)",
+                "Capacity": 465.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.31472505386711,
+                    35.06320704833905
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0632, -85.3147)",
+                "Capacity": 453.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.38890835182633,
+                    35.0081222694736
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0081, -85.3889)",
+                "Capacity": 448.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2587833294076,
+                    35.037770046413186
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0378, -85.2588)",
+                "Capacity": 446.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.18969775773536,
+                    35.012447108402725
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0124, -85.1897)",
+                "Capacity": 445.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.13159572072541,
+                    35.0857449094479
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0857, -85.1316)",
+                "Capacity": 435.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.14068866904648,
+                    35.06164572803556
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0616, -85.1407)",
+                "Capacity": 421.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23798521647329,
+                    35.1286859972292
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1287, -85.2380)",
+                "Capacity": 421.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24110856650961,
+                    35.09845729676037
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0985, -85.2411)",
+                "Capacity": 420.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.26804489797034,
+                    35.03394636214075
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0339, -85.2680)",
+                "Capacity": 419.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.08236610413945,
+                    35.082771590550486
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0828, -85.0824)",
+                "Capacity": 417.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.159740597144,
+                    35.036581030920665
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0366, -85.1597)",
+                "Capacity": 416.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.15675504761904,
+                    35.04753054087454
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0475, -85.1568)",
+                "Capacity": 415.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3176627031822,
+                    35.03727279589607
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0373, -85.3177)",
+                "Capacity": 414.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.32898628823338,
+                    35.097971599917855
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0980, -85.3290)",
+                "Capacity": 405.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.21996212200645,
+                    35.040845361025106
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0408, -85.2200)",
+                "Capacity": 404.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.36307598665276,
+                    35.03090094405075
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0309, -85.3631)",
+                "Capacity": 399.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.18676139819767,
+                    35.07431957672703
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0743, -85.1868)",
+                "Capacity": 391.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.0619701359579,
+                    35.093087827540764
+                ]
+            },
+            "properties": {
+                "Name": "Ooltewah High School's Parking Lot #1",
+                "Capacity": 390.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24469747855704,
+                    35.09808485959987
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0981, -85.2447)",
+                "Capacity": 390.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2970268912236,
+                    35.08099829740266
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0810, -85.2970)",
+                "Capacity": 389.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.27179130548384,
+                    35.1064619047646
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1065, -85.2718)",
+                "Capacity": 388.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23843687887275,
+                    35.12682244388007
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1268, -85.2384)",
+                "Capacity": 379.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.14781948400146,
+                    35.068082884289595
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0681, -85.1478)",
+                "Capacity": 375.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.13335368023908,
+                    35.086515883300194
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0865, -85.1334)",
+                "Capacity": 371.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.38587507209753,
+                    35.00921737045542
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0092, -85.3859)",
+                "Capacity": 367.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.24873675060144,
+                    35.138710454503
+                ]
+            },
+            "properties": {
+                "Name": "Highland Plaza",
+                "Capacity": 364.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.18592062374204,
+                    35.01321778952834
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0132, -85.1859)",
+                "Capacity": 356.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.29126523661547,
+                    35.02412802488912
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0241, -85.2913)",
+                "Capacity": 356.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.26848627732961,
+                    35.09784923205833
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0978, -85.2685)",
+                "Capacity": 353.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.22302818284257,
+                    35.09576465577171
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0958, -85.2230)",
+                "Capacity": 351.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.15810870204122,
+                    35.036935665504565
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0369, -85.1581)",
+                "Capacity": 350.0,
+                "Type": "Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.2073043382263,
+                    35.0152194967613
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0152, -85.2073)",
+                "Capacity": 349.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.29082707361378,
+                    35.02103039683582
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0210, -85.2908)",
+                "Capacity": 346.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.14713584531661,
+                    35.038671423007806
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0387, -85.1471)",
+                "Capacity": 342.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.23919626450387,
+                    35.12464205094291
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.1246, -85.2392)",
+                "Capacity": 342.0,
+                "Type": "Large Surface Lot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.19168684542628,
+                    35.06306957344289
+                ]
+            },
+            "properties": {
+                "Name": "Location (35.0631, -85.1917)",
+                "Capacity": 338.0,
+                "Type": "Large Surface Lot"
+            }
+        }
+    ]
+}

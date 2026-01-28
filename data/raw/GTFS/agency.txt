@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+1,CARTA,https://raw.githubusercontent.com/gocarta/gtfs/refs/heads/master/gtfs_current.zip,America/New_York,EN,423-629-1473,,

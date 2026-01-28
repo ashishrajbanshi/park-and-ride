@@ -1,0 +1,409 @@
+parking_id,name,capacity,type,distance_to_vw_m,vw_distance_category,num_stops_500m,trips_500m,nearest_stop_500m,transit_ok_500m,num_stops_800m,trips_800m,nearest_stop_800m,transit_ok_800m,num_stops_1000m,trips_1000m,nearest_stop_1000m,transit_ok_1000m
+29,"Location (35.0365, -85.1552)",664.0,Surface Lot,5012.728347499456,Near - Marginal,6,725,293.0,True,9,1035,293.0,True,12,1345,293.0,True
+95,"Location (35.0369, -85.1581)",350.0,Surface Lot,5101.151819356967,Near - Marginal,3,413,217.0,True,10,1138,217.0,True,20,2172,217.0,True
+81,"Location (35.0743, -85.1868)",391.0,Large Surface Lot,5134.277190232825,Near - Marginal,6,102,171.0,True,8,136,171.0,True,11,187,171.0,True
+1,"Location (35.0601, -85.1836)",3246.0,Surface Lot,5186.199941137874,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+75,"Location (35.0366, -85.1597)",416.0,Surface Lot,5209.900613742207,Near - Marginal,2,310,75.0,True,10,1138,75.0,True,23,2482,75.0,True
+10,"Location (35.0348, -85.1568)",1257.0,Surface Lot,5249.99127523449,Near - Marginal,5,622,338.0,True,7,828,338.0,True,10,1138,338.0,True
+58,"Location (35.0353, -85.1609)",482.0,Surface Lot,5385.073552751115,Near - Marginal,2,310,177.0,True,6,724,177.0,True,20,2172,177.0,True
+115,"Location (35.0331, -85.1567)",306.0,Surface Lot,5416.221546708479,Near - Marginal,3,311,236.0,True,6,725,236.0,True,7,828,236.0,True
+177,"Location (35.0603, -85.1866)",234.0,Large Surface Lot,5432.224276656704,Near - Marginal,0,0,,False,0,0,,False,1,1,957.0,False
+126,"Location (35.0871, -85.1891)",292.0,Large Surface Lot,5457.218692976104,Near - Marginal,6,57,70.0,True,9,86,70.0,True,11,105,70.0,True
+42,"Location (35.0338, -85.1606)",549.0,Surface Lot,5512.802843370634,Near - Marginal,2,310,268.0,True,5,621,268.0,True,7,828,268.0,True
+208,"Location (35.0842, -85.0707)",210.0,Large Surface Lot,5517.217477561289,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+312,"Location (35.0608, -85.1881)",131.0,Surface Lot,5546.5964218240915,Near - Marginal,0,0,,False,0,0,,False,1,1,901.0,False
+17,"Location (35.0321, -85.1578)",913.0,Surface Lot,5561.960860268819,Near - Marginal,3,311,117.0,True,5,622,117.0,True,7,828,117.0,True
+429,"Location (35.0557, -85.1862)",59.0,Surface Lot,5599.406625274831,Near - Marginal,0,0,,False,1,1,755.0,False,1,1,755.0,False
+210,"Location (35.0323, -85.1595)",207.0,Surface Lot,5612.268163857909,Near - Marginal,2,207,74.0,True,4,518,74.0,True,6,725,74.0,True
+143,"Location (35.0526, -85.1851)",270.0,Large Surface Lot,5664.791299137396,Near - Marginal,0,0,,False,0,0,,False,1,1,870.0,False
+432,"Location (35.0532, -85.1858)",58.0,Surface Lot,5680.52503781835,Near - Marginal,0,0,,False,0,0,,False,1,1,801.0,False
+132,"Location (35.0592, -85.1893)",286.0,Large Surface Lot,5708.787636335109,Near - Marginal,0,0,,False,1,1,690.0,False,1,1,690.0,False
+101,"Location (35.0631, -85.1917)",338.0,Large Surface Lot,5784.258510733405,Near - Marginal,0,0,,False,0,0,,False,1,1,976.0,False
+22,"Location (35.0565, -85.1899)",852.0,Large Surface Lot,5873.741949952674,Near - Marginal,1,1,458.0,False,1,1,458.0,False,1,1,458.0,False
+33,"Location (35.0589, -85.1913)",617.0,Large Surface Lot,5886.8400323876685,Near - Marginal,0,0,,False,1,1,563.0,False,1,1,563.0,False
+141,"Location (35.0554, -85.1895)",275.0,Large Surface Lot,5886.877415513694,Near - Marginal,1,1,453.0,False,1,1,453.0,False,1,1,453.0,False
+184,"Location (35.0620, -85.1926)",227.0,Large Surface Lot,5898.430847857317,Near - Marginal,0,0,,False,0,0,,False,1,1,842.0,False
+121,"Location (35.0582, -85.1912)",297.0,Large Surface Lot,5909.081688411215,Near - Marginal,1,1,498.0,False,1,1,498.0,False,1,1,498.0,False
+350,"Location (35.0904, -85.0655)",105.0,Surface Lot,6111.974353058337,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+418,"Location (35.0909, -85.0653)",65.0,Surface Lot,6147.904220524599,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+51,Publix Parking Lot,502.0,Large Surface Lot,6161.0214096622785,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+379,"Location (35.0839, -85.0634)",88.0,Surface Lot,6174.464878084384,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+393,"Location (35.0915, -85.0651)",77.0,Surface Lot,6183.205809862157,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+183,"Location (35.0733, -85.1997)",229.0,Large Surface Lot,6321.051118763003,Near - Marginal,2,34,367.0,True,3,51,367.0,True,5,85,367.0,True
+248,Ooltewah High School's Parking Lot #3,181.0,Large Surface Lot,6371.4527161816595,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+359,"Location (35.0308, -85.1743)",100.0,Surface Lot,6488.098468502101,Near - Marginal,0,0,,False,5,517,568.0,True,7,724,568.0,True
+83,Ooltewah High School's Parking Lot #1,390.0,Large Surface Lot,6505.547465104546,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+251,"Location (35.0911, -85.0611)",180.0,Large Surface Lot,6522.437708820166,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+216,"Location (35.0953, -85.0624)",205.0,Large Surface Lot,6541.6253609919695,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+257,"Location (35.0748, -85.2029)",178.0,Large Surface Lot,6602.972725072853,Near - Marginal,0,0,,False,2,34,620.0,True,2,34,620.0,True
+397,"Location (35.0823, -85.0584)",74.0,Surface Lot,6605.218928735731,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+229,Oakwood Baptist Church Parking Lot,197.0,Surface Lot,6615.814407029805,Near - Marginal,0,0,,False,3,44,681.0,True,4,53,681.0,True
+304,"Location (35.0833, -85.0578)",136.0,Surface Lot,6673.108544357842,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+343,"Location (35.0770, -85.2041)",108.0,Surface Lot,6710.698768889545,Near - Marginal,0,0,,False,2,27,769.0,True,6,72,769.0,True
+44,"Location (35.0956, -85.0595)",542.0,Large Surface Lot,6803.6512714964665,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+164,"Location (35.0823, -85.0555)",251.0,Large Surface Lot,6869.984713303743,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+156,"Location (35.0327, -85.1841)",256.0,Surface Lot,6921.977172744164,Near - Marginal,5,518,263.0,True,8,827,263.0,True,10,1035,263.0,True
+100,"Location (35.0668, -85.2066)",338.0,Large Surface Lot,7021.701362063906,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+356,"Location (35.0318, -85.1846)",101.0,Surface Lot,7022.89688145134,Near - Marginal,5,517,155.0,True,8,827,155.0,True,10,1035,155.0,True
+423,"Location (35.0323, -85.1858)",63.0,Surface Lot,7061.071476816894,Near - Marginal,4,414,189.0,True,9,931,189.0,True,9,931,189.0,True
+386,"Location (35.0425, -85.1978)",85.0,Surface Lot,7228.255432407379,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+19,Long Term Lot 2,874.0,Surface Lot,7338.882906003759,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+323,Short Term Lot,118.0,Surface Lot,7403.250761570877,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+155,"Location (35.0186, -85.1714)",256.0,Surface Lot,7473.487428792478,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+203,Rental Car Lot,213.0,Surface Lot,7544.020040052659,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+430,"Location (35.0120, -85.1584)",59.0,Surface Lot,7639.119950627107,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+204,"Location (35.0126, -85.1632)",212.0,Large Surface Lot,7733.11056635245,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+161,Cell Waiting Lot,252.0,Surface Lot,7831.405716430047,Near - Marginal,0,0,,False,5,517,608.0,True,10,1034,608.0,True
+272,"Location (35.0114, -85.1634)",169.0,Large Surface Lot,7864.190198931301,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+334,"Location (35.1127, -85.2054)",112.0,Surface Lot,7889.965848019184,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+235,"Location (35.0107, -85.1644)",191.0,Large Surface Lot,7971.489239278489,Near - Marginal,0,0,,False,0,0,,False,0,0,,False
+12,"Location (35.0266, -85.1941)",1185.0,Large Surface Lot,8049.539458071221,Optimal Distance,5,517,183.0,True,10,1034,183.0,True,13,1345,183.0,True
+55,"Location (35.0053, -85.1493)",494.0,Large Surface Lot,8132.715793239566,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+346,"Location (35.1409, -85.1748)",107.0,Surface Lot,8157.602810746134,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+40,Brainerd Hills Baptist Church,550.0,Large Surface Lot,8178.542669063922,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+424,"Location (35.1284, -85.1973)",61.0,Surface Lot,8342.38063871617,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+150,"Location (35.1089, -85.2135)",259.0,Surface Lot,8353.900596639665,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+201,"Location (35.0287, -85.2010)",214.0,Surface Lot,8362.941929626348,Optimal Distance,0,0,,False,6,620,707.0,True,9,932,707.0,True
+391,"Location (35.0350, -85.2069)",78.0,Surface Lot,8375.401451527152,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+413,"Location (35.0341, -85.2065)",69.0,Surface Lot,8401.748357600041,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+192,"Location (35.0966, -85.2197)",220.0,Large Surface Lot,8416.608636560028,Optimal Distance,0,0,,False,0,0,,False,1,17,879.0,True
+442,"Location (35.1080, -85.2169)",53.0,Surface Lot,8591.733573662385,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+324,"Location (35.0912, -85.2237)",117.0,Surface Lot,8635.993054030803,Optimal Distance,1,17,444.0,True,1,17,444.0,True,1,17,444.0,True
+353,"Location (35.1099, -85.2164)",103.0,Surface Lot,8637.312685161865,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+94,"Location (35.0958, -85.2230)",351.0,Surface Lot,8686.830403585926,Optimal Distance,0,0,,False,0,0,,False,1,17,834.0,True
+92,"Location (35.0132, -85.1859)",356.0,Large Surface Lot,8689.097646901724,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+163,"Location (35.0142, -85.1878)",251.0,Large Surface Lot,8707.692242660594,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+107,"Location (35.0129, -85.1873)",321.0,Large Surface Lot,8787.456018531568,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+428,"Location (35.1095, -85.2188)",59.0,Surface Lot,8823.88301379331,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+129,"Location (35.0129, -85.1886)",288.0,Large Surface Lot,8859.401591161633,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+68,"Location (35.0124, -85.1897)",445.0,Large Surface Lot,8961.966209867094,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+79,"Location (35.0408, -85.2200)",404.0,Large Surface Lot,9085.883641913011,Optimal Distance,3,3,292.0,False,4,4,292.0,False,5,5,292.0,False
+112,"Location (35.0343, -85.2190)",314.0,Large Surface Lot,9356.191045005562,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+64,"Location (35.0302, -85.2171)",465.0,Large Surface Lot,9446.738325382683,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+299,"Location (35.1287, -85.2139)",145.0,Surface Lot,9522.855149047155,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+438,"Location (35.1021, -85.2307)",56.0,Surface Lot,9544.66353434196,Optimal Distance,0,0,,False,0,0,,False,1,30,802.0,True
+450,"Location (35.1269, -85.2158)",51.0,Surface Lot,9548.355513808794,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+202,"Location (35.0730, -85.2366)",214.0,Large Surface Lot,9682.087855690073,Optimal Distance,5,46,122.0,True,8,75,122.0,True,13,179,122.0,True
+330,"Location (35.0257, -85.2176)",114.0,Surface Lot,9768.510341526768,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+96,"Location (35.0152, -85.2073)",349.0,Large Surface Lot,9794.010470838497,Optimal Distance,6,549,120.0,True,13,1274,120.0,True,19,1895,120.0,True
+37,"Location (35.1008, -85.2344)",577.0,Large Surface Lot,9828.951655446512,Optimal Distance,1,30,440.0,True,3,64,440.0,True,3,64,440.0,True
+199,"Location (35.1305, -85.2177)",216.0,Large Surface Lot,9920.982740144487,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+277,"Location (35.0149, -85.2092)",167.0,Large Surface Lot,9943.447636659916,Optimal Distance,6,549,37.0,True,16,1584,37.0,True,24,2412,37.0,True
+53,"Location (35.0985, -85.2375)",497.0,Surface Lot,10038.740364563904,Optimal Distance,3,64,195.0,True,4,96,195.0,True,4,96,195.0,True
+7,"Location (35.0098, -85.2057)",1457.0,Surface Lot,10122.094320735687,Optimal Distance,3,311,158.0,True,15,1480,158.0,True,18,1791,158.0,True
+36,"Location (35.0142, -85.2121)",587.0,Large Surface Lot,10189.562171026239,Optimal Distance,7,653,133.0,True,19,1895,133.0,True,25,2515,133.0,True
+46,"Location (35.1015, -85.2385)",534.0,Large Surface Lot,10209.529541382672,Optimal Distance,1,30,199.0,True,3,64,199.0,True,4,96,199.0,True
+139,"Location (35.1081, -85.2368)",278.0,Large Surface Lot,10281.217281283522,Optimal Distance,0,0,,False,0,0,,False,1,30,943.0,True
+218,"Location (35.1003, -85.2398)",203.0,Surface Lot,10292.807598783485,Optimal Distance,3,64,94.0,True,4,96,94.0,True,4,96,94.0,True
+234,"Location (35.1073, -85.2372)",191.0,Large Surface Lot,10293.659366842465,Optimal Distance,0,0,,False,0,0,,False,1,30,852.0,True
+41,"Location (35.0119, -85.2118)",549.0,Surface Lot,10348.457393685041,Optimal Distance,11,1067,270.0,True,21,2101,270.0,True,25,2515,270.0,True
+72,"Location (35.0985, -85.2411)",420.0,Large Surface Lot,10359.342609290978,Optimal Distance,4,96,229.0,True,4,96,229.0,True,4,96,229.0,True
+408,"Location (35.0106, -85.2120)",71.0,Surface Lot,10459.300858903674,Optimal Distance,11,1138,154.0,True,20,1998,154.0,True,27,2722,154.0,True
+302,"Location (35.0072, -85.2079)",138.0,Surface Lot,10470.405637369466,Optimal Distance,8,828,158.0,True,11,1138,158.0,True,18,1791,158.0,True
+416,"Location (35.0116, -85.2134)",66.0,Surface Lot,10477.343419158178,Optimal Distance,9,931,145.0,True,22,2205,145.0,True,27,2722,145.0,True
+443,"Location (35.0103, -85.2126)",53.0,Surface Lot,10524.649308311857,Optimal Distance,13,1345,87.0,True,22,2205,87.0,True,26,2618,87.0,True
+8,"Location (35.1481, -85.2070)",1268.0,Large Surface Lot,10529.082954227224,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+144,"Location (35.0997, -85.2429)",266.0,Large Surface Lot,10546.21739821448,Optimal Distance,4,96,353.0,True,4,96,353.0,True,4,96,353.0,True
+140,"Location (35.0488, -85.2413)",277.0,Large Surface Lot,10573.93949411116,Optimal Distance,1,1,107.0,False,5,5,107.0,False,5,5,107.0,False
+360,"Location (35.1561, -85.1967)",99.0,Surface Lot,10653.780435956525,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+394,"Location (35.0102, -85.2146)",74.0,Surface Lot,10660.60351397197,Optimal Distance,11,1138,122.0,True,24,2412,122.0,True,28,2825,122.0,True
+54,"Location (35.0093, -85.2136)",496.0,Surface Lot,10668.579077980667,Optimal Distance,12,1241,56.0,True,21,2101,56.0,True,25,2515,56.0,True
+82,"Location (35.0981, -85.2447)",390.0,Surface Lot,10668.924524613412,Optimal Distance,3,66,213.0,True,4,96,213.0,True,5,111,213.0,True
+127,"Location (35.0068, -85.2108)",291.0,Large Surface Lot,10687.297546426966,Optimal Distance,10,1035,46.0,True,14,1449,46.0,True,20,1999,46.0,True
+217,"Location (35.0152, -85.2208)",204.0,Large Surface Lot,10713.627930885033,Optimal Distance,0,0,,False,17,1758,509.0,True,24,2482,509.0,True
+147,"Location (35.1593, -85.1957)",263.0,Large Surface Lot,10893.90687183933,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+38,"Location (35.0084, -85.2163)",564.0,Large Surface Lot,10911.536282753124,Optimal Distance,13,1345,261.0,True,19,1966,261.0,True,27,2722,261.0,True
+173,"Location (35.0098, -85.2182)",240.0,Large Surface Lot,10923.318282043329,Optimal Distance,13,1345,77.0,True,21,2173,77.0,True,27,2721,77.0,True
+231,"Location (35.0061, -85.2141)",193.0,Large Surface Lot,10950.245230460316,Optimal Distance,7,724,263.0,True,17,1760,263.0,True,22,2276,263.0,True
+445,"Location (35.0103, -85.2197)",52.0,Surface Lot,10989.04308156252,Optimal Distance,12,1242,61.0,True,20,2069,61.0,True,27,2792,61.0,True
+246,"Location (35.1445, -85.2190)",182.0,Large Surface Lot,11009.929219512054,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+233,"Location (35.1246, -85.2368)",192.0,Large Surface Lot,11037.288072366136,Optimal Distance,0,0,,False,1,120,588.0,True,7,434,588.0,True
+278,"Location (35.1455, -85.2208)",167.0,Large Surface Lot,11201.638012599902,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+441,"Location (35.1225, -85.2404)",53.0,Surface Lot,11216.237747657638,Optimal Distance,0,0,,False,10,614,698.0,True,14,854,698.0,True
+98,"Location (35.1246, -85.2392)",342.0,Large Surface Lot,11229.39560924146,Optimal Distance,1,120,488.0,True,5,314,488.0,True,13,794,488.0,True
+148,"Location (35.1304, -85.2352)",262.0,Large Surface Lot,11235.591515982102,Optimal Distance,0,0,,False,2,180,527.0,True,2,180,527.0,True
+315,"Location (35.0109, -85.2239)",125.0,Surface Lot,11238.202245081304,Optimal Distance,12,1241,95.0,True,20,2069,95.0,True,25,2586,95.0,True
+86,"Location (35.1268, -85.2384)",379.0,Large Surface Lot,11284.862676867533,Optimal Distance,1,120,306.0,True,5,314,306.0,True,10,614,306.0,True
+293,"Location (35.1237, -85.2408)",152.0,Surface Lot,11308.579966236304,Optimal Distance,0,0,,False,12,734,573.0,True,14,854,573.0,True
+32,"Location (35.1319, -85.2351)",617.0,Large Surface Lot,11312.886276345926,Optimal Distance,0,0,,False,2,180,547.0,True,2,180,547.0,True
+410,"Location (35.1467, -85.2214)",70.0,Surface Lot,11334.178088130404,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+70,"Location (35.1287, -85.2380)",421.0,Large Surface Lot,11352.004533771475,Optimal Distance,1,120,249.0,True,4,300,249.0,True,7,434,249.0,True
+2,"Location (35.1132, -85.2471)",3190.0,Large Surface Lot,11364.192388386673,Optimal Distance,1,60,479.0,True,7,420,479.0,True,11,660,479.0,True
+131,"Location (35.0588, -85.2533)",287.0,Large Surface Lot,11376.919740022213,Optimal Distance,17,475,102.0,True,45,1203,102.0,True,63,1718,102.0,True
+376,"Location (35.0964, -85.2532)",88.0,Surface Lot,11394.525841731122,Optimal Distance,3,64,289.0,True,4,96,289.0,True,5,113,289.0,True
+47,"Location (35.1304, -85.2379)",534.0,Large Surface Lot,11438.144834532799,Optimal Distance,2,180,311.0,True,2,180,311.0,True,5,314,311.0,True
+362,"Location (35.0056, -85.2211)",99.0,Surface Lot,11438.427933220059,Optimal Distance,0,0,,False,12,1242,505.0,True,23,2379,505.0,True
+420,"Location (35.0127, -85.2288)",65.0,Surface Lot,11448.484702196187,Optimal Distance,12,1241,49.0,True,20,2069,49.0,True,25,2586,49.0,True
+289,"Location (35.0289, -85.2417)",156.0,Surface Lot,11455.444428735049,Optimal Distance,0,0,,False,10,990,662.0,True,16,1611,662.0,True
+333,"Location (35.1408, -85.2294)",113.0,Surface Lot,11459.468049935484,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+166,"Location (35.1325, -85.2367)",248.0,Large Surface Lot,11471.784594175695,Optimal Distance,1,60,395.0,True,2,180,395.0,True,5,360,395.0,True
+103,"Location (35.0575, -85.2541)",333.0,Large Surface Lot,11473.83984501075,Optimal Distance,16,494,68.0,True,45,1202,68.0,True,64,1781,68.0,True
+174,"Location (35.1454, -85.2251)",238.0,Surface Lot,11482.706355296843,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+303,"Location (35.0959, -85.2549)",138.0,Surface Lot,11535.472456274978,Optimal Distance,3,64,289.0,True,4,81,289.0,True,5,113,289.0,True
+195,"Location (35.1310, -85.2387)",218.0,Large Surface Lot,11537.731296544687,Optimal Distance,2,180,290.0,True,4,300,290.0,True,6,374,290.0,True
+194,"Location (35.1413, -85.2302)",219.0,Surface Lot,11548.344966607045,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+250,"Location (35.0055, -85.2228)",180.0,Surface Lot,11565.609490025465,Optimal Distance,0,0,,False,13,1345,542.0,True,18,1862,542.0,True
+49,"Location (35.1323, -85.2382)",516.0,Large Surface Lot,11577.988512018781,Optimal Distance,2,180,259.0,True,2,180,259.0,True,5,360,259.0,True
+34,"Location (35.1296, -85.2415)",605.0,Large Surface Lot,11679.814236324572,Optimal Distance,4,300,110.0,True,7,434,110.0,True,10,614,110.0,True
+230,"Location (35.1320, -85.2399)",197.0,Large Surface Lot,11693.430679578463,Optimal Distance,2,180,129.0,True,4,300,129.0,True,7,434,129.0,True
+378,"Location (35.0167, -85.2357)",88.0,Surface Lot,11693.642737458833,Optimal Distance,11,1139,73.0,True,20,2070,73.0,True,23,2380,73.0,True
+196,"Location (35.1336, -85.2397)",218.0,Large Surface Lot,11768.734524876905,Optimal Distance,1,60,146.0,True,3,240,146.0,True,6,420,146.0,True
+35,"Location (35.1314, -85.2414)",602.0,Large Surface Lot,11770.766305639338,Optimal Distance,2,180,158.0,True,5,314,158.0,True,9,554,158.0,True
+187,"Location (35.1345, -85.2393)",225.0,Large Surface Lot,11793.705698179541,Optimal Distance,1,60,244.0,True,3,240,244.0,True,6,420,244.0,True
+243,"Location (35.1330, -85.2406)",188.0,Large Surface Lot,11803.274990713064,Optimal Distance,2,180,46.0,True,5,360,46.0,True,7,434,46.0,True
+158,"Location (35.0185, -85.2388)",255.0,Large Surface Lot,11810.946270524515,Optimal Distance,12,1242,96.0,True,19,1967,96.0,True,25,2588,96.0,True
+245,"Location (35.0194, -85.2396)",183.0,Surface Lot,11817.474982558093,Optimal Distance,12,1242,51.0,True,18,1864,51.0,True,25,2588,51.0,True
+244,"Location (35.1181, -85.2505)",185.0,Surface Lot,11852.18220719251,Optimal Distance,8,480,90.0,True,15,900,90.0,True,17,1020,90.0,True
+238,"Location (35.1338, -85.2408)",190.0,Large Surface Lot,11859.667775190463,Optimal Distance,1,60,110.0,True,6,420,110.0,True,7,434,110.0,True
+261,"Location (35.0224, -85.2433)",176.0,Large Surface Lot,11928.26811832894,Optimal Distance,13,1346,57.0,True,18,1818,57.0,True,22,2232,57.0,True
+188,"Location (35.1420, -85.2350)",225.0,Large Surface Lot,11942.771881321734,Optimal Distance,0,0,,False,0,0,,False,1,60,931.0,True
+59,"Location (35.0243, -85.2452)",476.0,Surface Lot,11974.843702041577,Optimal Distance,11,1094,78.0,True,19,1922,78.0,True,23,2336,78.0,True
+151,"Location (35.1293, -85.2475)",258.0,Surface Lot,12135.321891554366,Optimal Distance,5,254,100.0,True,11,674,100.0,True,13,794,100.0,True
+384,"Location (35.1421, -85.2378)",86.0,Surface Lot,12155.829613041476,Optimal Distance,0,0,,False,1,60,709.0,True,2,120,709.0,True
+266,"Location (35.0807, -85.2638)",174.0,Large Surface Lot,12161.83906663383,Optimal Distance,6,162,56.0,True,8,212,56.0,True,9,244,56.0,True
+15,"Location (35.1343, -85.2443)",999.0,Large Surface Lot,12168.104799504843,Optimal Distance,2,120,348.0,True,6,420,348.0,True,7,434,348.0,True
+16,"Location (35.1371, -85.2424)",985.0,Surface Lot,12191.700807045909,Optimal Distance,2,120,234.0,True,3,180,234.0,True,4,300,234.0,True
+354,"Location (35.0058, -85.2325)",102.0,Surface Lot,12198.095708150671,Optimal Distance,0,0,,False,0,0,,False,12,1241,875.0,True
+219,"Location (35.0754, -85.2644)",202.0,Large Surface Lot,12207.120358534537,Optimal Distance,2,64,291.0,True,8,226,291.0,True,11,307,291.0,True
+120,"Location (35.0456, -85.2590)",297.0,Large Surface Lot,12225.56343242518,Optimal Distance,19,551,192.0,True,41,1073,192.0,True,63,1712,192.0,True
+176,"Location (35.0433, -85.2582)",235.0,Large Surface Lot,12231.87967147341,Optimal Distance,12,456,73.0,True,34,894,73.0,True,49,1262,73.0,True
+122,"Location (35.1434, -85.2381)",294.0,Surface Lot,12268.010550134717,Optimal Distance,0,0,,False,1,60,778.0,True,2,120,778.0,True
+214,"Location (35.0229, -85.2482)",206.0,Surface Lot,12298.450923569515,Optimal Distance,10,990,217.0,True,18,1818,217.0,True,22,2232,217.0,True
+258,"Location (35.0114, -85.2393)",178.0,Large Surface Lot,12299.5652353923,Optimal Distance,0,0,,False,9,932,620.0,True,17,1760,620.0,True
+57,"Location (35.1355, -85.2454)",487.0,Large Surface Lot,12323.355336348768,Optimal Distance,2,120,346.0,True,5,300,346.0,True,7,434,346.0,True
+260,"Location (35.0441, -85.2600)",177.0,Large Surface Lot,12359.246070143075,Optimal Distance,20,503,251.0,True,39,967,251.0,True,70,1997,251.0,True
+181,"Location (35.1450, -85.2380)",229.0,Surface Lot,12369.750211654045,Optimal Distance,0,0,,False,0,0,,False,1,60,918.0,True
+236,"Location (35.0401, -85.2587)",191.0,Large Surface Lot,12383.511625571266,Optimal Distance,12,456,67.0,True,31,893,67.0,True,45,1302,67.0,True
+206,"Location (35.0782, -85.2666)",210.0,Large Surface Lot,12411.93984164174,Optimal Distance,4,113,87.0,True,7,194,87.0,True,13,357,87.0,True
+67,"Location (35.0378, -85.2588)",446.0,Large Surface Lot,12478.18452894339,Optimal Distance,13,494,215.0,True,28,988,215.0,True,48,2008,215.0,True
+123,"Location (35.0117, -85.2427)",294.0,Large Surface Lot,12527.047720566086,Optimal Distance,0,0,,False,4,414,758.0,True,12,1242,758.0,True
+366,"Location (35.1449, -85.2405)",95.0,Surface Lot,12542.848434162248,Optimal Distance,0,0,,False,1,60,779.0,True,2,120,779.0,True
+421,"Location (35.0266, -85.2538)",64.0,Surface Lot,12555.274696726949,Optimal Distance,8,783,67.0,True,12,1196,67.0,True,16,1611,67.0,True
+13,"Location (35.1397, -85.2457)",1164.0,Surface Lot,12593.87923343029,Optimal Distance,2,120,174.0,True,2,120,174.0,True,3,180,174.0,True
+279,"Location (35.0411, -85.2619)",167.0,Large Surface Lot,12621.061989345246,Optimal Distance,19,522,238.0,True,42,1198,238.0,True,73,2281,238.0,True
+20,Hixson Plaza,855.0,Surface Lot,12692.86383898339,Optimal Distance,9,540,114.0,True,13,780,114.0,True,18,1080,114.0,True
+90,Highland Plaza,364.0,Large Surface Lot,12767.793759533346,Optimal Distance,2,120,170.0,True,2,120,170.0,True,3,180,170.0,True
+93,"Location (35.0978, -85.2685)",353.0,Surface Lot,12789.157417632921,Optimal Distance,0,0,,False,5,300,752.0,True,13,780,752.0,True
+374,"Location (35.1132, -85.2641)",88.0,Surface Lot,12820.293326134364,Optimal Distance,10,600,59.0,True,16,960,59.0,True,19,1140,59.0,True
+265,"Location (35.0373, -85.2639)",174.0,Large Surface Lot,12932.748172394337,Optimal Distance,19,580,244.0,True,58,2606,244.0,True,87,4168,244.0,True
+220,"Location (35.0394, -85.2659)",202.0,Large Surface Lot,13026.373818775985,Optimal Distance,21,599,105.0,True,68,2794,105.0,True,91,4029,105.0,True
+118,"Location (35.0641, -85.2729)",299.0,Large Surface Lot,13064.058987025759,Optimal Distance,2,32,123.0,True,5,92,123.0,True,17,429,123.0,True
+365,"Location (35.0652, -85.2739)",95.0,Surface Lot,13135.479297649694,Optimal Distance,1,17,197.0,True,7,169,197.0,True,10,286,197.0,True
+409,"Location (35.1526, -85.2421)",70.0,Surface Lot,13184.571174437411,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+60,"Location (35.0346, -85.2663)",475.0,Large Surface Lot,13242.823789912638,Optimal Distance,29,1759,183.0,True,70,3774,183.0,True,87,4531,183.0,True
+85,"Location (35.1065, -85.2718)",388.0,Surface Lot,13287.58221223627,Optimal Distance,9,540,47.0,True,19,1140,47.0,True,23,1380,47.0,True
+256,"Location (35.0625, -85.2756)",179.0,Large Surface Lot,13327.394721544599,Optimal Distance,3,56,175.0,True,3,56,175.0,True,18,598,175.0,True
+401,"Location (35.1014, -85.2741)",72.0,Surface Lot,13369.787039538222,Optimal Distance,13,780,105.0,True,16,960,105.0,True,21,1260,105.0,True
+239,"Location (35.0361, -85.2689)",190.0,Large Surface Lot,13411.515262954665,Optimal Distance,29,1442,184.0,True,77,4163,184.0,True,98,5153,184.0,True
+73,"Location (35.0339, -85.2680)",419.0,Large Surface Lot,13418.500163092833,Optimal Distance,34,2221,63.0,True,72,3916,63.0,True,88,4839,63.0,True
+14,"Location (35.1466, -85.2510)",1085.0,Large Surface Lot,13425.069605091669,Optimal Distance,0,0,,False,0,0,,False,1,60,989.0,True
+349,"Location (35.1020, -85.2747)",106.0,Surface Lot,13433.810699797194,Optimal Distance,13,780,30.0,True,17,1020,30.0,True,22,1320,30.0,True
+254,"Location (35.0401, -85.2715)",180.0,Large Surface Lot,13492.157510081626,Optimal Distance,31,1135,78.0,True,59,2810,78.0,True,91,5121,78.0,True
+133,"Location (35.0580, -85.2772)",285.0,Large Surface Lot,13536.43498529075,Optimal Distance,4,95,101.0,True,10,381,101.0,True,22,710,101.0,True
+318,"Location (35.1511, -85.2485)",121.0,Surface Lot,13537.603152647984,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+149,"Location (35.0346, -85.2698)",260.0,Large Surface Lot,13541.04134113435,Optimal Distance,33,2313,72.0,True,74,4040,72.0,True,95,5224,72.0,True
+6,"Location (35.1542, -85.2470)",2043.0,Surface Lot,13640.750169131332,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+271,"Location (35.0494, -85.2763)",169.0,Large Surface Lot,13640.820116451456,Optimal Distance,11,477,58.0,True,33,1813,58.0,True,52,2858,58.0,True
+452,"Location (35.1537, -85.2483)",51.0,Surface Lot,13699.305832704546,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+458,"Location (35.0308, -85.2699)",50.0,Surface Lot,13701.862328263749,Optimal Distance,31,2105,60.0,True,52,3297,60.0,True,79,4764,60.0,True
+297,"Location (35.0565, -85.2797)",147.0,Surface Lot,13787.75021527356,Optimal Distance,3,80,135.0,True,7,173,135.0,True,19,693,135.0,True
+407,"Location (35.1551, -85.2482)",71.0,Surface Lot,13789.297403276652,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+440,"Location (35.1558, -85.2481)",55.0,Surface Lot,13830.923989091763,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+48,"Location (35.0574, -85.2803)",531.0,Surface Lot,13832.775324212795,Optimal Distance,3,80,167.0,True,5,141,167.0,True,13,479,167.0,True
+247,"Location (35.0487, -85.2783)",182.0,Large Surface Lot,13834.205633193116,Optimal Distance,13,527,85.0,True,25,1573,85.0,True,50,3795,85.0,True
+128,"Location (35.0543, -85.2811)",290.0,Large Surface Lot,13962.038792774112,Optimal Distance,2,56,160.0,True,11,337,160.0,True,17,765,160.0,True
+175,"Location (35.0322, -85.2740)",236.0,Large Surface Lot,13994.223044589175,Optimal Distance,26,1849,64.0,True,45,3292,64.0,True,88,5425,64.0,True
+351,"Location (35.0441, -85.2791)",103.0,Surface Lot,14033.981735150313,Optimal Distance,16,1099,47.0,True,45,3415,47.0,True,64,5094,47.0,True
+26,"Location (35.1160, -85.2772)",786.0,Surface Lot,14055.149087703587,Optimal Distance,0,0,,False,0,0,,False,6,360,863.0,True
+198,"Location (35.0546, -85.2827)",218.0,Large Surface Lot,14097.194634948855,Optimal Distance,2,56,206.0,True,8,238,206.0,True,19,1596,206.0,True
+162,"Location (35.0554, -85.2832)",251.0,Surface Lot,14122.512198025344,Optimal Distance,2,56,206.0,True,3,80,206.0,True,12,352,206.0,True
+136,"Location (35.0434, -85.2808)",281.0,Large Surface Lot,14206.421505664664,Optimal Distance,14,1033,76.0,True,39,3810,76.0,True,60,5148,76.0,True
+168,"Location (35.1183, -85.2786)",244.0,Large Surface Lot,14252.417474403748,Optimal Distance,0,0,,False,0,0,,False,0,0,,False
+119,"Location (35.0438, -85.2821)",299.0,Surface Lot,14308.119153063293,Optimal Distance,15,1279,134.0,True,38,3780,134.0,True,58,5705,134.0,True
+399,"Location (35.0690, -85.2886)",73.0,Surface Lot,14443.415070734227,Optimal Distance,11,660,69.0,True,18,1080,69.0,True,23,1380,69.0,True
+439,"Location (35.0686, -85.2890)",56.0,Surface Lot,14477.474986544785,Optimal Distance,12,720,45.0,True,18,1080,45.0,True,23,1380,45.0,True
+152,"Location (35.0228, -85.2752)",257.0,Large Surface Lot,14501.092639079932,Optimal Distance,14,840,157.0,True,37,2066,157.0,True,51,2626,157.0,True
+259,"Location (35.0257, -85.2775)",177.0,Large Surface Lot,14564.408062248234,Optimal Distance,15,900,76.0,True,28,1570,76.0,True,60,3502,76.0,True
+263,"Location (35.0499, -85.2870)",175.0,Large Surface Lot,14586.847695785582,Optimal Distance,10,2444,343.0,True,23,4158,343.0,True,54,6498,343.0,True
+370,"Location (35.0495, -85.2880)",94.0,Surface Lot,14683.180453394674,Optimal Distance,13,2759,284.0,True,29,4896,284.0,True,54,6886,284.0,True
+197,"Location (35.0457, -85.2877)",218.0,Large Surface Lot,14747.400344846877,Optimal Distance,15,3124,89.0,True,39,5835,89.0,True,59,7824,89.0,True
+165,"Location (35.0439, -85.2878)",249.0,Large Surface Lot,14801.097784879394,Optimal Distance,15,2756,100.0,True,42,6034,100.0,True,64,7836,100.0,True
+264,"Location (35.1193, -85.2882)",174.0,Large Surface Lot,15121.092140365963,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+108,"Location (35.0480, -85.2928)",320.0,Large Surface Lot,15139.132416917933,Far - Acceptable,24,3975,77.0,True,47,7076,77.0,True,68,9653,77.0,True
+395,"Location (35.0428, -85.2917)",74.0,Surface Lot,15181.34014230995,Far - Acceptable,14,1893,79.0,True,52,6819,79.0,True,70,8545,79.0,True
+84,"Location (35.0810, -85.2970)",389.0,Surface Lot,15187.833946564699,Far - Acceptable,0,0,,False,8,480,628.0,True,12,720,628.0,True
+170,"Location (35.1357, -85.2813)",243.0,Large Surface Lot,15204.316503520815,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+62,"Location (35.1383, -85.2797)",469.0,Large Surface Lot,15206.995833825084,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+325,"Location (35.1342, -85.2822)",117.0,Surface Lot,15215.652631458312,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+255,"Location (35.0490, -85.2944)",179.0,Large Surface Lot,15265.89405365675,Far - Acceptable,22,3507,61.0,True,51,7725,61.0,True,75,10520,61.0,True
+273,"Location (35.1149, -85.2919)",169.0,Large Surface Lot,15300.100244193904,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+153,"Location (35.1194, -85.2907)",256.0,Large Surface Lot,15336.679074638916,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+191,"Location (35.0469, -85.2948)",220.0,Large Surface Lot,15347.210663359187,Far - Acceptable,25,4143,45.0,True,63,8819,45.0,True,88,11010,45.0,True
+288,"Location (35.1208, -85.2904)",156.0,Surface Lot,15361.624392361533,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+213,"Location (35.0624, -85.2982)",207.0,Surface Lot,15370.97670617565,Far - Acceptable,7,420,88.0,True,18,1350,88.0,True,26,1896,88.0,True
+436,"Location (35.0614, -85.2981)",57.0,Surface Lot,15378.775576446165,Far - Acceptable,7,420,187.0,True,17,1290,187.0,True,26,1896,187.0,True
+109,"Location (35.1148, -85.2930)",320.0,Surface Lot,15396.180096861191,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+159,"Location (35.1072, -85.2956)",255.0,Large Surface Lot,15420.367026353215,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+335,"Location (35.1103, -85.2954)",112.0,Surface Lot,15482.934416337905,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+385,"Location (35.0453, -85.2959)",85.0,Surface Lot,15487.343342288783,Far - Acceptable,24,3398,71.0,True,75,9279,71.0,True,99,11292,71.0,True
+377,"Location (35.0523, -85.2978)",88.0,Surface Lot,15496.25578278456,Far - Acceptable,20,2171,143.0,True,42,5594,143.0,True,64,8820,143.0,True
+224,"Location (35.0470, -85.2966)",198.0,Surface Lot,15500.740469863349,Far - Acceptable,29,4422,138.0,True,67,8902,138.0,True,100,11475,138.0,True
+371,"Location (35.0433, -85.2963)",90.0,Surface Lot,15569.144624893748,Far - Acceptable,24,2486,71.0,True,66,7684,71.0,True,94,10673,71.0,True
+39,"Location (35.1830, -85.2430)",563.0,Large Surface Lot,15599.211152486276,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+284,33,163.0,Surface Lot,15640.676874620724,Far - Acceptable,25,2906,64.0,True,57,7558,64.0,True,94,11669,64.0,True
+332,"Location (35.1218, -85.2935)",113.0,Surface Lot,15664.441535403532,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+226,"Location (35.0600, -85.3011)",198.0,Large Surface Lot,15670.64515219331,Far - Acceptable,6,506,266.0,True,20,1536,266.0,True,44,3712,266.0,True
+232,"Location (35.0205, -85.2881)",193.0,Surface Lot,15675.53960456273,Far - Acceptable,13,234,63.0,True,20,360,63.0,True,46,1938,63.0,True
+134,CCA lot,283.0,Large Surface Lot,15699.55344386791,Far - Acceptable,0,0,,False,1,76,756.0,True,2,114,756.0,True
+222,32,201.0,Surface Lot,15746.740184657952,Far - Acceptable,26,2891,65.0,True,58,7200,65.0,True,125,16423,65.0,True
+291,"Location (35.0427, -85.2985)",154.0,Surface Lot,15778.425307368572,Far - Acceptable,27,2553,70.0,True,63,6191,70.0,True,126,15718,70.0,True
+91,"Location (35.0241, -85.2913)",356.0,Large Surface Lot,15788.482377443996,Far - Acceptable,13,234,208.0,True,35,1134,208.0,True,50,1740,208.0,True
+309,"Location (35.0601, -85.3027)",131.0,Surface Lot,15807.737886805033,Far - Acceptable,9,810,159.0,True,21,1792,159.0,True,47,4031,159.0,True
+455,"Location (35.0630, -85.3031)",50.0,Surface Lot,15816.53309337607,Far - Acceptable,15,1236,189.0,True,26,1805,189.0,True,35,2153,189.0,True
+446,"Location (35.0412, -85.2989)",52.0,Surface Lot,15856.884935670714,Far - Acceptable,24,1861,42.0,True,55,5015,42.0,True,129,14982,42.0,True
+97,"Location (35.0210, -85.2908)",346.0,Large Surface Lot,15882.663851895335,Far - Acceptable,13,234,94.0,True,21,378,94.0,True,37,1128,94.0,True
+431,48,59.0,Surface Lot,15916.949367174317,Far - Acceptable,34,4215,50.0,True,96,10021,50.0,True,170,24280,50.0,True
+268,"Location (35.0417, -85.2999)",172.0,Surface Lot,15931.2022056516,Far - Acceptable,27,2210,74.0,True,78,8953,74.0,True,151,18710,74.0,True
+398,"Location (35.0925, -85.3044)",73.0,Surface Lot,15948.250010153353,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+321,"Location (35.0476, -85.3019)",119.0,Surface Lot,15966.306868863656,Far - Acceptable,36,4506,92.0,True,116,13922,92.0,True,185,27537,92.0,True
+113,"Location (35.0468, -85.3023)",307.0,Surface Lot,16015.371946716066,Far - Acceptable,34,4020,59.0,True,132,17283,59.0,True,190,28026,59.0,True
+402,"Location (35.0930, -85.3052)",72.0,Surface Lot,16025.700838835424,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+381,"Location (35.0495, -85.3031)",87.0,Surface Lot,16029.088627632473,Far - Acceptable,34,4073,62.0,True,123,15961,62.0,True,180,26472,62.0,True
+364,"Location (35.0457, -85.3027)",96.0,Surface Lot,16078.938046338448,Far - Acceptable,39,3860,71.0,True,135,19882,71.0,True,191,27962,71.0,True
+171,"Location (35.0612, -85.3059)",242.0,Surface Lot,16091.381425005473,Far - Acceptable,15,1236,114.0,True,25,1809,114.0,True,47,4576,114.0,True
+447,"Location (35.0628, -85.3062)",52.0,Surface Lot,16096.551647026326,Far - Acceptable,17,1309,55.0,True,29,1815,55.0,True,41,2577,55.0,True
+363,"Location (35.0497, -85.3039)",99.0,Surface Lot,16096.553826358062,Far - Acceptable,33,3853,113.0,True,134,17158,113.0,True,180,26794,113.0,True
+456,"Location (35.0488, -85.3039)",50.0,Surface Lot,16113.818764930795,Far - Acceptable,36,4186,78.0,True,142,19451,78.0,True,186,27988,78.0,True
+403,"Location (35.0458, -85.3032)",71.0,Surface Lot,16122.22954416108,Far - Acceptable,40,3964,81.0,True,134,19532,81.0,True,194,28594,81.0,True
+367,"Location (35.0508, -85.3045)",95.0,Surface Lot,16130.691964812297,Far - Acceptable,44,4470,150.0,True,117,16396,150.0,True,154,23084,150.0,True
+435,"Location (35.0490, -85.3042)",57.0,Surface Lot,16138.977126095268,Far - Acceptable,41,5085,107.0,True,144,19908,107.0,True,183,27578,107.0,True
+382,"Location (35.0484, -85.3041)",87.0,Surface Lot,16145.832784750124,Far - Acceptable,42,5375,88.0,True,142,20169,88.0,True,186,28314,88.0,True
+404,"Location (35.0420, -85.3024)",71.0,Surface Lot,16148.626481685827,Far - Acceptable,31,2469,38.0,True,112,14801,38.0,True,164,22709,38.0,True
+406,"Location (35.0507, -85.3050)",71.0,Surface Lot,16177.330964942808,Far - Acceptable,50,5924,166.0,True,118,16275,166.0,True,157,23747,166.0,True
+310,Unum,131.0,Surface Lot,16181.457574197351,Far - Acceptable,48,5625,208.0,True,133,18990,208.0,True,169,25223,208.0,True
+205,"Location (35.0463, -85.3041)",210.0,Surface Lot,16187.624910242865,Far - Acceptable,49,4630,58.0,True,141,21869,58.0,True,195,28631,58.0,True
+308,"Location (35.0493, -85.3052)",131.0,Surface Lot,16222.267759599044,Far - Acceptable,52,6624,205.0,True,143,21178,205.0,True,172,25829,205.0,True
+326,"Location (35.0632, -85.3081)",116.0,Surface Lot,16268.503177792434,Far - Acceptable,19,1385,59.0,True,31,1847,59.0,True,42,2593,59.0,True
+380,"Location (35.0619, -85.3081)",88.0,Surface Lot,16276.017601337511,Far - Acceptable,16,1271,73.0,True,27,1695,73.0,True,51,4706,73.0,True
+358,"Location (35.0465, -85.3051)",100.0,Surface Lot,16278.823650005299,Far - Acceptable,69,8728,67.0,True,153,22998,67.0,True,191,28352,67.0,True
+322,"Location (35.0542, -85.3069)",118.0,Surface Lot,16281.397583265654,Far - Acceptable,44,5767,79.0,True,79,10979,79.0,True,112,15073,79.0,True
+338,"Location (35.0437, -85.3047)",111.0,Surface Lot,16308.49029452376,Far - Acceptable,64,8886,58.0,True,126,20218,58.0,True,182,25956,58.0,True
+337,"Location (35.0483, -85.3062)",111.0,Surface Lot,16332.16557027244,Far - Acceptable,65,9698,99.0,True,159,24077,99.0,True,179,27114,99.0,True
+125,"Location (35.0516, -85.3070)",292.0,Surface Lot,16337.989328924748,Far - Acceptable,68,9370,72.0,True,105,15038,72.0,True,141,21978,72.0,True
+313,"Location (35.0429, -85.3052)",130.0,Surface Lot,16369.717616531281,Far - Acceptable,70,10130,48.0,True,132,20894,48.0,True,179,25501,48.0,True
+415,"Location (35.0439, -85.3057)",67.0,Surface Lot,16388.399951156578,Far - Acceptable,75,11272,52.0,True,131,21100,52.0,True,186,26260,52.0,True
+412,"Location (35.0613, -85.3093)",69.0,Surface Lot,16391.227491708563,Far - Acceptable,16,1271,156.0,True,31,2087,156.0,True,54,5155,156.0,True
+417,"Location (35.0476, -85.3068)",65.0,Surface Lot,16400.49522657566,Far - Acceptable,76,12071,107.0,True,156,23988,107.0,True,179,26972,107.0,True
+320,"Location (35.0453, -85.3062)",120.0,Surface Lot,16404.347568691006,Far - Acceptable,83,12648,70.0,True,138,21775,70.0,True,193,28093,70.0,True
+426,"Location (35.0651, -85.3101)",59.0,Surface Lot,16430.44332678596,Far - Acceptable,25,1363,101.0,True,34,1961,101.0,True,34,1961,101.0,True
+45,"Location (35.0924, -85.3103)",540.0,Surface Lot,16482.000142143126,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+451,"Location (35.0410, -85.3059)",51.0,Surface Lot,16484.3024649258,Far - Acceptable,60,8390,157.0,True,133,18845,157.0,True,172,23530,157.0,True
+411,"Location (35.1243, -85.3020)",70.0,Surface Lot,16486.233290971002,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+355,"Location (35.0655, -85.3108)",102.0,Surface Lot,16488.751324438508,Far - Acceptable,25,1195,130.0,True,33,1901,130.0,True,34,1961,130.0,True
+345,"Location (35.0503, -85.3088)",107.0,Surface Lot,16525.463031721294,Far - Acceptable,72,10981,73.0,True,123,20271,73.0,True,160,23965,73.0,True
+389,"Location (35.0468, -85.3080)",82.0,Surface Lot,16529.77547474899,Far - Acceptable,82,14823,130.0,True,155,23583,130.0,True,185,28070,130.0,True
+357,"Location (35.0628, -85.3110)",100.0,Surface Lot,16536.63823343563,Far - Acceptable,19,1195,79.0,True,32,1885,79.0,True,38,3099,79.0,True
+352,"Location (35.0362, -85.3051)",103.0,Surface Lot,16551.349007836325,Far - Acceptable,30,3667,93.0,True,82,7958,93.0,True,129,12981,93.0,True
+290,"Location (35.0503, -85.3092)",154.0,Surface Lot,16557.278339854693,Far - Acceptable,72,10895,42.0,True,122,20126,42.0,True,159,23820,42.0,True
+298,"Location (35.0400, -85.3066)",147.0,Surface Lot,16568.501956752803,Far - Acceptable,61,8521,105.0,True,125,16957,105.0,True,165,21752,105.0,True
+347,"Location (35.0544, -85.3102)",106.0,Surface Lot,16575.195954255156,Far - Acceptable,43,6012,43.0,True,65,9549,43.0,True,103,14038,43.0,True
+61,"Location (35.0417, -85.3073)",470.0,Surface Lot,16587.101551142212,Far - Acceptable,71,11494,114.0,True,138,19896,114.0,True,168,23524,114.0,True
+372,"Location (35.0364, -85.3057)",89.0,Surface Lot,16594.150167871016,Far - Acceptable,31,3742,95.0,True,83,8474,95.0,True,129,13572,95.0,True
+425,"Location (35.0407, -85.3074)",60.0,Surface Lot,16623.082664037836,Far - Acceptable,65,9539,64.0,True,128,18252,64.0,True,165,22642,64.0,True
+422,"Location (35.0512, -85.3101)",63.0,Surface Lot,16628.625284649537,Far - Acceptable,65,10039,30.0,True,102,15720,30.0,True,142,22176,30.0,True
+306,"Location (35.1201, -85.3055)",134.0,Surface Lot,16652.650760200413,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+301,"Location (35.0632, -85.3124)",138.0,Surface Lot,16654.233453869983,Far - Acceptable,17,929,173.0,True,30,1765,173.0,True,37,2315,173.0,True
+169,"Location (35.0316, -85.3046)",244.0,Large Surface Lot,16657.427646026077,Far - Acceptable,18,1284,349.0,True,46,3525,349.0,True,75,5900,349.0,True
+327,"Location (35.0551, -85.3114)",116.0,Surface Lot,16669.476794884038,Far - Acceptable,37,5071,86.0,True,60,8848,86.0,True,91,12369,86.0,True
+305,"Location (35.0463, -85.3099)",136.0,Surface Lot,16707.881492106386,Far - Acceptable,81,14546,49.0,True,141,22428,49.0,True,193,28114,49.0,True
+427,"Location (35.0628, -85.3131)",59.0,Surface Lot,16725.711027559777,Far - Acceptable,14,815,137.0,True,30,1765,137.0,True,38,3099,137.0,True
+449,"Location (35.0507, -85.3113)",51.0,Surface Lot,16736.968889428194,Far - Acceptable,63,9798,45.0,True,104,17817,45.0,True,146,22166,45.0,True
+295,"Location (35.0444, -85.3099)",148.0,Surface Lot,16751.50025168177,Far - Acceptable,77,13865,39.0,True,134,21351,39.0,True,185,26219,39.0,True
+242,"Location (35.0389, -85.3084)",188.0,Surface Lot,16760.843058359744,Far - Acceptable,56,7065,92.0,True,114,15231,92.0,True,149,19384,92.0,True
+110,"Location (35.0308, -85.3055)",317.0,Large Surface Lot,16760.93912439189,Far - Acceptable,12,897,299.0,True,44,3275,299.0,True,70,5311,299.0,True
+457,"Location (35.0345, -85.3072)",50.0,Surface Lot,16784.954608764467,Far - Acceptable,34,3190,87.0,True,60,6371,87.0,True,94,9206,87.0,True
+373,"Location (35.0540, -85.3125)",89.0,Surface Lot,16785.73066389898,Far - Acceptable,39,5466,105.0,True,65,9814,105.0,True,82,12057,105.0,True
+145,"Location (35.0679, -85.3144)",266.0,Large Surface Lot,16800.660302076376,Far - Acceptable,12,418,82.0,True,24,1027,82.0,True,31,1651,82.0,True
+4,"Location (35.0168, -85.2999)",2101.0,Surface Lot,16831.13678409337,Far - Acceptable,0,0,,False,0,0,,False,12,216,852.0,True
+267,"Location (35.0507, -85.3124)",173.0,Surface Lot,16835.740108463662,Far - Acceptable,58,9228,144.0,True,94,15570,144.0,True,137,20967,144.0,True
+287,"Location (35.0529, -85.3128)",156.0,Surface Lot,16839.151817133115,Far - Acceptable,42,5985,111.0,True,69,10582,111.0,True,98,14975,111.0,True
+240,"Location (35.1240, -85.3062)",189.0,Large Surface Lot,16840.09290081431,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+319,"Location (35.1221, -85.3072)",120.0,Surface Lot,16863.145964176125,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+65,"Location (35.0632, -85.3147)",453.0,Surface Lot,16865.957170690413,Far - Acceptable,9,430,92.0,True,28,1499,92.0,True,31,1803,92.0,True
+252,"Location (35.0477, -85.3121)",180.0,Surface Lot,16874.41713334078,Far - Acceptable,57,12062,134.0,True,137,20898,134.0,True,167,24989,134.0,True
+453,"Location (35.0450, -85.3115)",51.0,Surface Lot,16876.701925648158,Far - Acceptable,70,12855,38.0,True,129,20010,38.0,True,181,26051,38.0,True
+433,"Location (35.0353, -85.3087)",58.0,Surface Lot,16890.926791164453,Far - Acceptable,41,3949,86.0,True,73,7841,86.0,True,105,12471,86.0,True
+405,"Location (35.0361, -85.3092)",71.0,Surface Lot,16916.238030758424,Far - Acceptable,43,4359,78.0,True,79,8500,78.0,True,113,14393,78.0,True
+434,"Location (35.0463, -85.3123)",58.0,Surface Lot,16919.713707409188,Far - Acceptable,58,12444,159.0,True,133,20235,159.0,True,176,25731,159.0,True
+211,"Location (35.0503, -85.3132)",207.0,Surface Lot,16921.75745981278,Far - Acceptable,54,8828,225.0,True,99,15952,225.0,True,137,21000,225.0,True
+21,"Location (35.0295, -85.3069)",853.0,Large Surface Lot,16926.71662297923,Far - Acceptable,8,600,258.0,True,35,2263,258.0,True,65,4635,258.0,True
+292,"Location (35.0443, -85.3118)",152.0,Surface Lot,16927.433058822888,Far - Acceptable,65,12547,47.0,True,130,19828,47.0,True,177,25140,47.0,True
+328,"Location (35.0452, -85.3124)",115.0,Surface Lot,16960.252532299142,Far - Acceptable,63,12439,71.0,True,134,20501,71.0,True,177,26292,71.0,True
+419,"Location (35.0493, -85.3135)",65.0,Surface Lot,16968.231163954893,Far - Acceptable,50,7849,252.0,True,107,17776,252.0,True,146,22061,252.0,True
+448,"Location (35.0480, -85.3132)",52.0,Surface Lot,16969.271018552554,Far - Acceptable,50,10055,230.0,True,123,19435,230.0,True,157,23605,230.0,True
+283,"Location (35.0485, -85.3134)",165.0,Surface Lot,16978.071487409667,Far - Acceptable,50,9354,253.0,True,116,18541,253.0,True,151,23035,253.0,True
+52,"Location (35.0554, -85.3148)",500.0,Surface Lot,16978.534638421217,Far - Acceptable,9,1829,353.0,True,45,6231,353.0,True,71,9779,353.0,True
+383,"Location (35.0446, -85.3130)",87.0,Surface Lot,17019.948841998597,Far - Acceptable,58,11732,63.0,True,126,19118,63.0,True,169,24446,63.0,True
+157,"Location (35.0387, -85.3114)",255.0,Surface Lot,17034.869119738145,Far - Acceptable,50,6655,72.0,True,104,14582,72.0,True,136,17942,72.0,True
+331,"Location (35.0399, -85.3122)",114.0,Surface Lot,17071.805458025196,Far - Acceptable,48,7816,182.0,True,112,15733,182.0,True,145,19579,182.0,True
+137,"Location (35.0505, -85.3152)",281.0,Large Surface Lot,17093.898998065302,Far - Acceptable,20,3650,376.0,True,86,13831,376.0,True,113,18357,376.0,True
+341,"Location (35.0373, -85.3118)",108.0,Surface Lot,17108.255638288698,Far - Acceptable,42,4267,55.0,True,88,11642,55.0,True,122,16095,55.0,True
+368,"Location (35.0351, -85.3120)",94.0,Surface Lot,17186.37617956679,Far - Acceptable,32,2164,58.0,True,59,6231,58.0,True,98,12350,58.0,True
+249,"Location (35.0405, -85.3140)",181.0,Surface Lot,17211.462347659683,Far - Acceptable,26,3655,77.0,True,104,15602,77.0,True,140,19283,77.0,True
+317,"Location (35.0377, -85.3131)",121.0,Surface Lot,17212.887363914637,Far - Acceptable,22,1499,77.0,True,85,11981,77.0,True,119,16024,77.0,True
+25,"Location (35.0486, -85.3163)",794.0,Surface Lot,17232.03275302098,Far - Acceptable,7,398,299.0,True,85,14433,299.0,True,123,19231,299.0,True
+106,"Location (35.0463, -85.3161)",324.0,Large Surface Lot,17263.52935324641,Far - Acceptable,18,2786,201.0,True,85,14658,201.0,True,135,20993,201.0,True
+369,"Location (35.0353, -85.3131)",94.0,Surface Lot,17279.71598616369,Far - Acceptable,26,1747,53.0,True,57,6089,53.0,True,90,11204,53.0,True
+114,"Location (35.0822, -85.3207)",306.0,Large Surface Lot,17349.084688494117,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+18,"Location (35.0379, -85.3148)",881.0,Large Surface Lot,17355.78547869321,Far - Acceptable,20,1241,100.0,True,74,10490,100.0,True,109,15345,100.0,True
+339,"Location (35.0328, -85.3132)",109.0,Surface Lot,17365.84540223165,Far - Acceptable,18,1064,56.0,True,48,3708,56.0,True,68,6379,56.0,True
+160,"Location (35.0471, -85.3177)",253.0,Large Surface Lot,17390.384389220973,Far - Acceptable,13,776,100.0,True,61,10847,100.0,True,114,18705,100.0,True
+275,"Location (35.0545, -85.3196)",168.0,Surface Lot,17422.36661145387,Far - Acceptable,0,0,,False,5,927,678.0,True,40,5374,678.0,True
+23,"Location (35.1182, -85.3150)",847.0,Large Surface Lot,17429.08087023956,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+270,"Location (35.0349, -85.3148)",170.0,Surface Lot,17442.139198662375,Far - Acceptable,19,1151,166.0,True,45,3596,166.0,True,80,8208,166.0,True
+227,"Location (34.9871, -85.2876)",197.0,Large Surface Lot,17454.508944879137,Far - Acceptable,15,978,82.0,True,21,1230,82.0,True,27,1506,82.0,True
+269,"Location (35.0245, -85.3113)",170.0,Large Surface Lot,17485.106873188568,Far - Acceptable,3,225,219.0,True,16,992,219.0,True,25,1537,219.0,True
+138,"Location (35.0630, -85.3218)",280.0,Surface Lot,17513.336903520536,Far - Acceptable,0,0,,False,4,196,669.0,True,9,386,669.0,True
+116,"Location (35.0350, -85.3162)",302.0,Large Surface Lot,17564.596045063816,Far - Acceptable,15,791,297.0,True,36,2395,297.0,True,68,6675,297.0,True
+311,"Location (35.0609, -85.3222)",131.0,Surface Lot,17566.642525732477,Far - Acceptable,0,0,,False,2,120,716.0,True,5,234,716.0,True
+294,"Location (35.0499, -85.3206)",149.0,Surface Lot,17589.265226945787,Far - Acceptable,6,335,173.0,True,11,650,173.0,True,40,7310,173.0,True
+392,"Location (35.0484, -85.3204)",77.0,Surface Lot,17604.464856874467,Far - Acceptable,8,461,43.0,True,14,839,43.0,True,51,9145,43.0,True
+77,"Location (35.0373, -85.3177)",414.0,Large Surface Lot,17625.92462199118,Far - Acceptable,7,441,312.0,True,33,2077,312.0,True,79,10118,312.0,True
+253,"Location (35.0448, -85.3203)",180.0,Large Surface Lot,17673.001017576327,Far - Acceptable,16,965,45.0,True,22,2452,45.0,True,44,7770,45.0,True
+179,"Location (35.0484, -85.3213)",232.0,Surface Lot,17681.806328254428,Far - Acceptable,7,398,114.0,True,14,839,114.0,True,28,4373,114.0,True
+307,"Location (35.0469, -85.3216)",133.0,Surface Lot,17738.398645266854,Far - Acceptable,11,650,119.0,True,16,965,119.0,True,24,3638,119.0,True
+124,"Location (35.1105, -85.3209)",293.0,Large Surface Lot,17750.954386360838,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+31,"Location (35.0462, -85.3227)",645.0,Large Surface Lot,17859.26257989557,Far - Acceptable,11,650,244.0,True,16,965,244.0,True,19,1740,244.0,True
+28,"Location (35.0404, -85.3213)",752.0,Large Surface Lot,17860.43358914865,Far - Acceptable,6,378,144.0,True,20,1270,144.0,True,34,3134,144.0,True
+142,"Location (35.0196, -85.3137)",274.0,Large Surface Lot,17882.451680494763,Far - Acceptable,4,300,159.0,True,23,1517,159.0,True,35,2483,159.0,True
+130,"Location (35.1035, -85.3245)",288.0,Large Surface Lot,17931.039380021215,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+285,"Location (35.0251, -85.3177)",162.0,Surface Lot,18011.65856650357,Far - Acceptable,8,392,60.0,True,14,764,60.0,True,32,2082,60.0,True
+221,"Location (35.1126, -85.3250)",201.0,Large Surface Lot,18165.067959173924,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+78,"Location (35.0980, -85.3290)",405.0,Large Surface Lot,18243.379130309437,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+444,"Location (35.0226, -85.3200)",53.0,Surface Lot,18303.894767335743,Far - Acceptable,7,343,182.0,True,26,1756,182.0,True,41,2803,182.0,True
+178,"Location (35.0213, -85.3238)",234.0,Large Surface Lot,18675.929195071178,Far - Acceptable,8,568,308.0,True,26,1782,308.0,True,32,2180,308.0,True
+388,"Location (35.0171, -85.3234)",84.0,Surface Lot,18802.899318131505,Far - Acceptable,20,1462,68.0,True,29,2111,68.0,True,47,3458,68.0,True
+5,"Location (34.9952, -85.3113)",2097.0,Large Surface Lot,18821.777424536063,Far - Acceptable,8,600,310.0,True,22,1650,310.0,True,27,2025,310.0,True
+314,"Location (35.0871, -85.3372)",127.0,Surface Lot,18880.01073719619,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+223,"Location (35.0448, -85.3341)",199.0,Large Surface Lot,18905.474823900717,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+207,"Location (35.0155, -85.3245)",210.0,Large Surface Lot,18963.23319039226,Far - Acceptable,19,1413,59.0,True,35,2610,59.0,True,46,3383,59.0,True
+135,"Location (35.0147, -85.3261)",282.0,Large Surface Lot,19127.662927928555,Far - Acceptable,16,1240,107.0,True,36,2685,107.0,True,46,3331,107.0,True
+282,"Location (35.0090, -85.3241)",166.0,Large Surface Lot,19197.613515241574,Far - Acceptable,19,1396,103.0,True,38,2584,103.0,True,56,4003,103.0,True
+117,"Location (35.0101, -85.3267)",300.0,Large Surface Lot,19372.020127190815,Far - Acceptable,14,995,100.0,True,34,2333,100.0,True,49,3452,100.0,True
+154,"Location (35.0090, -85.3291)",256.0,Surface Lot,19614.49139755912,Far - Acceptable,12,793,84.0,True,26,1687,84.0,True,38,2529,84.0,True
+348,"Location (35.0184, -85.3377)",106.0,Surface Lot,19984.748622359988,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+396,"Location (35.0201, -85.3403)",74.0,Surface Lot,20148.7087534901,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+342,"Location (35.0199, -85.3403)",108.0,Surface Lot,20158.408042997547,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+329,"Location (35.0448, -85.3571)",115.0,Surface Lot,20968.656529151605,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+80,"Location (35.0309, -85.3631)",399.0,Large Surface Lot,21817.125327849542,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+190,"Location (35.0162, -85.3838)",221.0,Large Surface Lot,24062.326595544713,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+89,"Location (35.0092, -85.3859)",367.0,Large Surface Lot,24475.230322221974,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+50,"Location (35.0094, -85.3878)",515.0,Large Surface Lot,24637.18735813921,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+66,"Location (35.0081, -85.3889)",448.0,Large Surface Lot,24776.048970839707,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+146,"Location (35.0069, -85.3887)",265.0,Large Surface Lot,24800.39508440986,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+167,"Location (35.0087, -85.3899)",248.0,Large Surface Lot,24840.482604829478,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+102,"Location (35.0059, -85.3898)",336.0,Large Surface Lot,24930.131625228456,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+105,"Location (35.0069, -85.3905)",327.0,Large Surface Lot,24954.647065467067,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+296,"Location (35.0075, -85.3910)",148.0,Surface Lot,24983.1988878249,Far - Acceptable,0,0,,False,0,0,,False,0,0,,False
+200,"Location (35.0080, -85.3917)",215.0,Surface Lot,25020.15076000687,Very Far - Questionable,0,0,,False,0,0,,False,0,0,,False
+3,"Location (35.0053, -85.3929)",2747.0,Large Surface Lot,25219.031901757808,Very Far - Questionable,0,0,,False,0,0,,False,0,0,,False
